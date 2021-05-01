@@ -3,7 +3,7 @@
 const express = require('express');
 const app = express();
 
-const userRoutes = require('./auth/routes/userRoutes.js');
+const userRoutes = require('./auth/routes/userSchema.js');
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -13,7 +13,7 @@ module.exports = {
 	server: app,
 	start: (port) => {
 		app.listen(port, () => {
-			console.log(`Server running on Port: ${PORT}`);
+			console.log(`Server running on Port: ${port}`);
 		});
 	},
 };

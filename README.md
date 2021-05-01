@@ -20,8 +20,8 @@ A basic API server that runs tests to see if the server works the ability to add
 
 [Heroku]()
 
-[GitHub]()
+[GitHub](https://github.com/S2Mackinley/basic-auth)
 
-[Pull Request]()
+[Pull Request](https://github.com/S2Mackinley/basic-auth/pull/1)
 
 ![somedrawing](basic-auth.png)
