@@ -1,5 +1,5 @@
 'use strict';
-
+const dotenv = require('dotenv');
 require('dotenv').config();
 const mongoose = require('mongoose');
 const server = require('./src/server');

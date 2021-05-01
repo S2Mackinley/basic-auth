@@ -13,7 +13,7 @@ module.exports = {
 	server: app,
 	start: (port) => {
 		app.listen(port, () => {
-			console.log(`Server running on Port: ${port}`);
+			console.log(`Server running on Port: ${PORT}`);
 		});
 	},
 };
