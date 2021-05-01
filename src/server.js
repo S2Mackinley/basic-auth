@@ -3,7 +3,7 @@
 const express = require('express');
 const app = express();
 
-const userRoutes = require('./auth/routes/userRoutes.js');
+const userRoutes = require('./auth/routes/userSchema.js');
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
