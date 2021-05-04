@@ -22,6 +22,6 @@ A basic API server that runs tests to see if the server works the ability to add
 
 [GitHub](https://github.com/S2Mackinley/basic-auth)
 
-[Pull Request](https://github.com/S2Mackinley/basic-auth/pull/1)
+[Pull Request](https://github.com/S2Mackinley/basic-auth/pull/2)
 
 ![somedrawing](basic-auth.png)
