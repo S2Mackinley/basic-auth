@@ -8,7 +8,6 @@ const basicAuth = require('../middleware/basicAuth.js');
 
 const router = express.Router();
 
-
 router.post('/signup', async (req, res, next) => {
 	try {
 		req.body.password = await bcrypt.hash(req.body.password, 5);
