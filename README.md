@@ -18,7 +18,7 @@ A basic API server that runs tests to see if the server works the ability to add
 
 ---
 
-[Heroku](https://git.heroku.com/ep-basic-auth.git)
+[Heroku](https://ep-basic-auth.herokuapp.com/)
 
 [GitHub](https://github.com/S2Mackinley/basic-auth)
 
